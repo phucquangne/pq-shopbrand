@@ -4538,7 +4538,7 @@ textarea.form-control-lg {
   border-color: rgba(255, 255, 255, 0.1);
 }
 .navbar-dark .navbar-toggler-icon {
-  background-image: url(/IMAGES/menu-icon.png);
+  background-image: url("../IMAGES/menu-icon.png");
 }
 .navbar-dark .navbar-text {
   color: rgba(255, 255, 255, 0.55);
